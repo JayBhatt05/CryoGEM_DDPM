@@ -3,8 +3,8 @@
 1. Used the model proposed in [1] as foundation and adapted it to generated the grayscale simulated CryoGEM dataset.
 2. Evaluated the generated data using the Fréchet Inception Distance (FID) metric [3].    
 
-<img width="1894" height="886" alt="image" src="https://github.com/user-attachments/assets/2e25c51e-01c1-443f-92ce-cbf431a08e59" />
-    
+<img width="1894" height="886" alt="image" src="https://github.com/user-attachments/assets/2e25c51e-01c1-443f-92ce-cbf431a08e59" />    
+
 Generated Data:  
 <img width="1308" height="488" alt="image" src="https://github.com/user-attachments/assets/9b5524a7-4ae7-4492-a502-20a2dfc86a4f" />
 
