@@ -2,7 +2,7 @@
 **Reproduction of the DDPM for Retinal Images paper [1] to generate a simulated CryoGEM [2] dataset**  
 
 <img width="1894" height="886" alt="image" src="https://github.com/user-attachments/assets/2e25c51e-01c1-443f-92ce-cbf431a08e59" />
-  
+    
 Generated Data:  
 <img width="1298" height="964" alt="image" src="https://github.com/user-attachments/assets/f7ca2f9f-106b-4992-9bb7-c08d930dc1b5" />
   
