@@ -14,5 +14,5 @@ Real Data:
 
      
 [1] Alimanov, Alnur & Islam, Md Baharul. (2023). Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation. 1-12. 10.1109/ICCP56744.2023.10233841.  
-[2] Zhang, J., Chen, Q., Zeng, Y., Gao, W., He, X., Liu, Z., & Yu, J. (2024). CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy. Advances in Neural Information Processing Systems, 37, 63222-63249.
+[2] Zhang, J., Chen, Q., Zeng, Y., Gao, W., He, X., Liu, Z., & Yu, J. (2024). CryoGEM: Physics-Informed Generative Cryo-Electron Microscopy. Advances in Neural Information Processing Systems, 37, 63222-63249.  
 [3] Heusel, M., Ramsauer, H., Unterthiner, T., Nessler, B., & Hochreiter, S. (2017). Gans trained by a two time-scale update rule converge to a local nash equilibrium. Advances in neural information processing systems, 30.
